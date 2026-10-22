@@ -1,0 +1,11 @@
+Package: com.mbucc9000.cameraflip
+Name: CameraFlip
+Version: 2.2.0
+Architecture: iphoneos-arm
+Description: Snapchat-style camera flip for the Camera app: double-tap the preview to switch between the back and front cameras, for photos and videos. While recording it flips without stopping: one continuous video, and the mic runs separately so audio keeps going through the flip.
+Author: mbucc9000
+Maintainer: mbucc9000
+Section: Tweaks
+Depends: mobilesubstrate
+Conflicts: com.mbucc9000.tapflip
+Replaces: com.mbucc9000.tapflip
